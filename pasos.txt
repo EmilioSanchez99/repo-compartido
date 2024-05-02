@@ -1,0 +1,2 @@
+crear repositorio e invitar a los colaboradores
+los colaboradores clonan el repo
